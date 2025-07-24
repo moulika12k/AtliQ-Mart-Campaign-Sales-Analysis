@@ -22,6 +22,7 @@ The campaign was run during two major Indian festivals: **Diwali** and **Sankran
 - **Power BI** – For dashboard creation and data visualization  
 - **VS Code** – Used to present and enhance SQL queries with a clean dark layout  
 - **Canva** – Used to design the presentation slides for the video
+- **OBS Studio & Clipchamp** – For recording and editing the project presentation video
 
 ---
 
