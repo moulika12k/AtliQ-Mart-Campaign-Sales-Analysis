@@ -11,7 +11,7 @@ The campaign was run during two major Indian festivals: **Diwali** and **Sankran
 ## 🎯 Objectives
 
 - Compare **pre-campaign** and **post-campaign** sales performance
-- Measure **Incremental Revenue**, **Incremental Sold Quantity (ISU)**, and their respective percentages
+- Measure **Incremental Revenue (IR)**, **Incremental Sold Quantity (ISU)**, and their respective percentages
 - Present key business insights using a clean and interactive Power BI dashboard
 
 ---
